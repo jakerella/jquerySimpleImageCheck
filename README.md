@@ -57,6 +57,8 @@ $('#someCheckbox').simpleImageCheck({
 });
 ```
 
+You can find [some examples](http://jordankasper.com/jquery/imagecheck) on my personal site.
+
 **Known Issues**
 
 1. IE 6 doesn't like my examples page...
