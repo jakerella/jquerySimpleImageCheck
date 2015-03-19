@@ -1,7 +1,7 @@
 {
-  "name": "jquerySimpleImageCheck",
+  "name": "jquery-simple-image-check",
   "version": "0.4.0",
-  "description": "",
+  "description": "Simple image replacement for checkboxes and radio buttons",
   "main": "jquery.simpleImageCheck.js",
   "repository": {
     "type": "git",
