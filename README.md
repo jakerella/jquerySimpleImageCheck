@@ -30,7 +30,9 @@ is still there (just hidden), and all form submissions will work as normal.
 
 via Bower
 
+```
 bower install --save jquerySimpleImageCheck
+```
 
 **Usage**
 
