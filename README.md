@@ -26,6 +26,14 @@ is still there (just hidden), and all form submissions will work as normal.
 * Chrome
 * Opera
 
+**Installation**
+
+via Bower
+
+```
+bower install --save jquerySimpleImageCheck
+```
+
 **Usage**
 
 _Options:_

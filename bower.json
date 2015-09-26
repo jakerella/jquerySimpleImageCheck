@@ -1,0 +1,25 @@
+{
+  "name": "jquery-simple-image-check",
+  "version": "0.4.0",
+  "description": "Simple image replacement for checkboxes and radio buttons",
+  "main": "./jquery.simpleImageCheck.js",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "keywords": [
+    "jquery-plugin",
+    "form",
+    "radio button",
+    "image"
+  ],
+  "author": "Jordan Kasper",
+  "license": "MIT",
+  "homepage": "https://github.com/jakerella/jquerySimpleImageCheck"
+}
+
+
